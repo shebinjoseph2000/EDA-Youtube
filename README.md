@@ -16,7 +16,7 @@ The video details, including title, published date, views, likes, dislikes, and 
 The video details are processed and stored in a suitable data structure.
 The video data is grouped by music artist and sorted based on likes.
 The top 5 videos with the highest number of likes for each music artist are selected.
-Bar graphs are created using the Plotly Express library to visualize the top videos by likes for each music artist.
+Bar graphs are created using the Matplot library to visualize the top videos by likes for each music artist.
 
 # Saving Data:
 
