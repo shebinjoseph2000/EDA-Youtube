@@ -1,5 +1,5 @@
 # EDA-Youtube
-This project utilizes the YouTube Data API to scrape data from YouTube by generating an API key and analyze the popularity of music artists based on likes, views, and other statistics using python and visualizing them using matpltlib. The goal is to identify the most popular music artists and visualize the findings.
+This project utilizes the YouTube Data API to scrape data from YouTube by generating an API key and analyze the popularity of music artists based on likes, views, and other statistics using python and visualizing them using matplotlib. The goal is to identify the most popular music artists and visualize the findings.
 
 The project involves the following steps:
 
